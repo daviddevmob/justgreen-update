@@ -1,7 +1,7 @@
 {
     "name": "JUSTgreen",
-    "windows_version": 0.2,
-    "macos_version": 0.2,
+    "windows_version": 0.1,
+    "macos_version": 0.1,
     "changes": [
         "Added New Screen",
         "Minor Bug Fixes"
