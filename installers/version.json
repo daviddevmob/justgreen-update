@@ -6,7 +6,7 @@
         "Added New Screen",
         "Minor Bug Fixes"
     ],
-    "macos_path": "installers/macos/JUSTgreen.dmg",
-    "windows_path": "installers/windows/JUSTgreen.exe",
+    "macos_path": "JUSTgreen.dmg",
+    "windows_path": "JUSTgreen.exe",
     "linux_path": ""
 }
