@@ -1,0 +1,12 @@
+{
+    "name": "JUSTgreen",
+    "windows_version": 1.1,
+    "macos_version": 1.1,
+    "changes": [
+        "Added New Screen",
+        "Minor Bug Fixes"
+    ],
+    "macos_path": "installers/macos/JUSTgreen.dmg",
+    "windows_path": "installers/windows/JUSTgreen.exe",
+    "linux_path": ""
+}
