@@ -7,6 +7,6 @@
         "Minor Bug Fixes"
     ],
     "macos_path": "JUSTgreen.dmg",
-    "windows_path": "JUSTgreen.exe",
+    "windows_path": "JUSTgreen.msix",
     "linux_path": ""
 }
